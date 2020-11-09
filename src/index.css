@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,400&subset=latin,cyrillic);
+
+body {
+  background: grey;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+}
+nav{
+  color: rgb(160, 194, 214);
+}
